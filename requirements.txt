@@ -1,0 +1,54 @@
+# Python外企面试项目依赖包
+
+# Web框架
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+
+# 认证和安全
+PyJWT==2.8.0
+Werkzeug==2.3.7
+
+# 数据库
+SQLAlchemy==2.0.21
+
+# 缓存和存储
+redis==5.0.0
+
+# 异步支持
+aiohttp==3.8.5
+asyncio-mqtt==0.11.1
+
+# 数据处理
+pandas==2.1.1
+numpy==1.24.3
+
+# 测试
+pytest==7.4.2
+pytest-cov==4.1.0
+pytest-mock==3.11.1
+
+# 代码质量
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+isort==5.12.0
+
+# 性能监控
+psutil==5.9.5
+
+# 日志和调试
+coloredlogs==15.0.1
+
+# API文档
+flask-restx==1.1.0
+
+# 限流
+Flask-Limiter==3.5.0
+
+# 环境管理
+python-dotenv==1.0.0
+
+# 开发工具
+ipython==8.15.0
+jupyter==1.0.0
